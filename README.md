@@ -1,7 +1,7 @@
 # Curso_Tensorflow
 Este repositorio está orientado a realizar prácticas del curso de redes neuronales convolucionales usando Tensorflow
 
-# Descargar OpenCV en Windows
+# Descargar Requerimientos en Windows
 Copie y pegue cada una de los siguientes comandos en el CMD (Símbolo del sistema) ingresando los comandos línea por línea solo una a la vez:
 
 python -m pip install -U pip
@@ -15,7 +15,7 @@ pip install tensorflow
 pip install keras
 
 ####
-# Descargar OpenCV en Ubuntu
+# Descargar Requerimientos en Ubuntu
 Copie y pegue cada una de los siguientes comandos en el terminal ingresando los comandos línea por línea solo una a la vez:
 
 ### Python 3
