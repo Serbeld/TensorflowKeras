@@ -1,7 +1,5 @@
-# Curso_Tensorflow
+# Tensorflow
 Este repositorio está orientado a realizar prácticas del curso de redes neuronales convolucionales usando Tensorflow
-
-<img src="CNN1.png" />
 
 # Descargar Requerimientos en Windows
 Copie y pegue cada una de los siguientes comandos en el CMD (Símbolo del sistema) ingresando los comandos línea por línea solo una a la vez:
